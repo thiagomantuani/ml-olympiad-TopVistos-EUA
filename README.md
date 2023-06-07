@@ -1,4 +1,4 @@
-# ml-olympiad-TopVistos-EUA
+# ML Olympiad for Students - TopVistos EUA (Kaggle) - 7º Lugar
 
 Solução:
   1. Colocar os dados na pasta data. (os dados podem ser obtidos em https://www.kaggle.com/competitions/ml-olympiad-for-students-topvistos-eua)
